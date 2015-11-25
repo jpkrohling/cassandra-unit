@@ -4,7 +4,7 @@
 	<artifactId>cassandra-unit-parent</artifactId>
 	<packaging>pom</packaging>
 	<name>cassandra-unit-parent</name>
-	<version>2.2.2.0-jboss-2</version>
+	<version>2.2.2.0-jboss-3-SNAPSHOT</version>
 	<description>Test framework to develop with Cassandra</description>
 	<url>https://github.com/jpkrohling/cassandra-unit</url>
 
@@ -32,7 +32,7 @@
 		<connection>scm:git:https://github.com/jpkrohling/cassandra-unit.git</connection>
 		<developerConnection>scm:git:git@github.com:jpkrohling/cassandra-unit.git</developerConnection>
 		<url>https://github.com/jpkrohling/cassandra-unit.git</url>
-		<tag>cassandra-unit-parent-2.2.2.0-jboss-2</tag>
+		<tag>HEAD</tag>
 	</scm>
 	<modules>
 		<module>cassandra-unit</module>
